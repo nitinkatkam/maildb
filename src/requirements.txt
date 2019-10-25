@@ -1,0 +1,3 @@
+aiosmtpd
+pymongo
+mysql-connector
